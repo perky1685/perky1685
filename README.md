@@ -2,11 +2,23 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1275076598986575974/1316108317159985234/twitter_1862148558679576943.gif?ex=67ac3ea2&is=67aaed22&hm=43f094472fbba7821319c15b51cfa62dca989fee80017b233e7bfcffc7a98bb1&"  />
+  <img height="200" src="https://camo.githubusercontent.com/9966bd60e59830589a8fe287090bf15000685a0320d1f4dd8a953257828ace90/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313237353037363539383938363537353937342f313331363130383331373135393938353233342f747769747465725f313836323134383535383637393537363934332e6769663f65783d36376163336561322669733d363761616564323226686d3d3433663039343437326662626137383231333139633135623531636661363264636139383966656538303031376232333365376266636666633761393862623126"  />
 </div>
 
 ###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=perky1685&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
